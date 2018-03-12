@@ -622,6 +622,7 @@ int main()
     printf("\n\nEnter password > ");
     scanf("%s",pass);
     //here define password.current password is "sagar".
+    //in your case you can change password.
 	if((strcmp(pass,"sagar")) != 0)
 	{
 		printf("invalid password\n");
