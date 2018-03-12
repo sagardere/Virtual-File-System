@@ -8,7 +8,10 @@ A basic virtual file system implemented in C.
 #Change directory to where the main file.
 
 #Compile program
-  gcc main.c
+    "gcc main.c"
 
 #Run the executable
- ./a.out
+ 	"./a.out"
+
+#After Executation Enter password
+	"sagar"
